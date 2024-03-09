@@ -9,9 +9,13 @@ In order to remediatet this issue editcap was used to remove duplicate packets f
 
 This resulted in the following reductions to the original pcaps:
 Monday Traffic - From to 10,822,507,416 bytes to 10,737,846,120 bytes (Reduced by 0.7823%)
+
 Tuesday Traffic - From 11,048,283,608 bytes to 10,968,829,792 bytes (Reduced by 0.7192%)
+
 Wednesday Traffic - From 13,420,789,612 bytes to 13,342,573,764 bytes (Reduced by 0.5828%)
+
 Thursday Traffic - From 8,302,500,180 bytes to 8,221,154,268 bytes (Reduced by 0.9798%)
+
 Friday Traffic - From 8,839,309,056 bytes To 8,762,558,668 bytes (Reduced by 0.8683%)
 
 2. Attack Traffic Extraction: 
