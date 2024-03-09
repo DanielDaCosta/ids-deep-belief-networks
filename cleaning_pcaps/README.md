@@ -23,4 +23,4 @@ We are aware that the data extracted still contains begnin traffic and which req
 
 3. Preliminary Stream Extraction:
 
-In order to begin extracting features we sampled 1% of the TCP & UDP streams founds in the pcaps.
+In order to begin extracting features we sampled 1% of the TCP & UDP streams found in the pcaps.
