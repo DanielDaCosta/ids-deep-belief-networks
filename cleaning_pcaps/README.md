@@ -8,6 +8,7 @@ The Sally Floyd and Vern Paxxson papers read in class brought to our attention t
 In order to remediatet this issue editcap was used to remove duplicate packets from the pcaps.
 
 This resulted in the following reductions to the original pcaps:
+
 Monday Traffic - From to 10,822,507,416 bytes to 10,737,846,120 bytes (Reduced by 0.7823%)
 
 Tuesday Traffic - From 11,048,283,608 bytes to 10,968,829,792 bytes (Reduced by 0.7192%)
