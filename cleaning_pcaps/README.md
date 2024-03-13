@@ -24,7 +24,7 @@ Friday Traffic - From 8,839,309,056 bytes To 8,762,558,668 bytes (Reduced by 0.8
 The researchers who created the dataset provide detailed timeline for when each attack was executied in their paper "Toward Generating a New Intrusion Detection Dataset and Intrusion" and the website associated with the dataset.
 
 Using editcap and the aformentioned times we extracted all traffic that occured in the time frames listed from the deduplicated pcacps. 
-We are aware that the data extracted still contains begnin traffic and which requires further processing.
+We then used tcpdump along with the source and destination IPs (sometimes ports) of the attack. In order to isolate attack traffic.
 
 3. Preliminary Stream Extraction:
 
